@@ -9,7 +9,7 @@ and updated patch by patch as we move further.
 of **CH4** from 1990-2014 (data available till 2014).
 
 ![1990-2004 CH4 1](https://github.com/Wealthy-Waste/International-Greenhouse-Gas-Emissions/blob/master/INTERNATIONAL%20GREENHOUSE%20GAS%20EMMISSION/Analysis-1.png)
-It is a plot from 1990-2004 for the emission of CH4 in the over mentioned countries.
+It is a plot from 1990-2004 for the emission of CH4 in the above mentioned countries.
 
 🔸**Key Questions**
 
