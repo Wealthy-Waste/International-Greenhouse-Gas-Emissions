@@ -1,7 +1,7 @@
 # 1. Australia
 ![AUSTRALIAN EMISSION DATA](https://github.com/Wealthy-Waste/International-Greenhouse-Gas-Emissions/blob/master/INTERNATIONAL%20GREENHOUSE%20GAS%20EMMISSION/AUSTRALIA.png)
 
-As the plot explains, Australia produces CO2 maximum,moderate amount of CH4 and NO2, with a very small amount of N2O as per the available data.
+As the plot explains, Australia produces CO2 maximum,moderate amount of CH4, with a very small amount of N2O as per the available data.
 This indirectly means,
 * Australian industry broadly consists of mining, manufacturing, and construction,Energy Production,Agriculture, Forestry and Other Land Use (AFOLU),
 Transport, industries like - paper, food, petroleum refineries, chemicals and metal/mineral products & Residential, Commercial and Institutional Sectors, that are considered as
