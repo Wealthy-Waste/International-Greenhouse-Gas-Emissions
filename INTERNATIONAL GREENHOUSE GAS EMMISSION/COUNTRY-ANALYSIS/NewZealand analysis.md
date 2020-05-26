@@ -6,7 +6,7 @@ Accoring to the dataset available, New Zealand emits greenhouse gases which cons
 indirectly means,
 
 * Methane emission occurs mainly because of Oil and Natural gas production and agricultural emission. In 2018, New Zealand's 
-self-sufficiency in oil (mmbls production divided by consumption) was 17%, i.e. the country imports its petroleum product needs. 
+self-sufficiency in oil was 17%, i.e. the country imports its petroleum product needs. 
 All local oil production is exported as the New Zealand refinery is not suited to processing it [Source - Wikipedia].
 
     So, New Zealand is unusual among developed countries with its strong base in primary production and a high proportion of electricity 
